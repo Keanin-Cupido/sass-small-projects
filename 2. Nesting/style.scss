@@ -3,3 +3,23 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+header {
+  height: 25vh;
+  background: crimson;
+
+  nav {
+    border: 5px solid teal;
+
+    ul {
+      display: flex;
+      
+      li {
+        text-decoration: none;
+        a {
+
+        }
+      }
+    }
+  }
+}
