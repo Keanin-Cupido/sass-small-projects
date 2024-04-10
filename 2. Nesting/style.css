@@ -2,18 +2,4 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-}
-
-header {
-  height: 25vh;
-  background: crimson;
-}
-header nav {
-  border: 5px solid teal;
-}
-header nav ul {
-  display: flex;
-}
-header nav ul li {
-  text-decoration: none;
 }/*# sourceMappingURL=style.css.map */
